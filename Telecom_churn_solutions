@@ -1,0 +1,3 @@
+Experimenting with all available telecom datasets
+For practicing purpose we have many types of data types - those are clean and with in a single table
+For extracting real time telecom dataser, we need to query many tables like CDR, DDR, VDR, SDR, demographic details, balance summary details, demographic details etc
